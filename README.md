@@ -149,5 +149,5 @@ With Nigeria’s inflation on the rise, jobs that are resilient to economic vola
 ---
 
 > 👨🏽‍💻 *Developed by Emmanuel Dunmininu Olugbade*  
-> 📫 Connect: [LinkedIn](https://www.linkedin.com/in/emmanuel-olugbade/) | [Kaggle](https://www.kaggle.com/dunmininuolugbade)
+> 📫 Connect: [LinkedIn](https://www.linkedin.com/in/emmanuel-olugbade-dunmininu/) | [Kaggle](https://www.kaggle.com/dunmininuolugbade)
 
