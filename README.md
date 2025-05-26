@@ -135,12 +135,6 @@ With Nigeria’s inflation on the rise, jobs that are resilient to economic vola
 
 ---
 
-## ⚠️ Limitations
-
-- Limited data sources and scope due to availability constraints.
-
----
-
 ## 🔮 Future Research Directions
 
 1. Analyze individual skills within each job sector for deeper insights.
